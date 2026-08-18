@@ -147,5 +147,3 @@ if uploaded:
         st.subheader("📧 메일 본문")
         st.code(r['mail'], language=None)
 
-st.divider()
-st.caption("seunghyec")
