@@ -148,4 +148,4 @@ if uploaded:
         st.code(r['mail'], language=None)
 
 st.divider()
-st.caption("트립비토즈 조승혜")
+st.caption("seunghyec")
